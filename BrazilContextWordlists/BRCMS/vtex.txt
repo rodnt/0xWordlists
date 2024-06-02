@@ -1,0 +1,15 @@
+api/dataentities/AD/search?_fields=_all&_where=(userId=)
+api/dataentities/AD/documents/d058c7a7-27d8-11ee-83ab-12087d0ea453
+api/dataentities/AD/documents/d058c7a7-27d8-11ee-83ab-12087d0ea453?_fields=_all
+api/dataentities/CL/scroll?isCluster=true&_size=250&_fields=email,firstName
+api/dataentities/CL/search?email=my@email.com
+api/dataentities/CL/search?_where=(firstName=Jon OR lastName=Smith) OR (createdIn between 2001-01-01 AND 2016-01-01)
+api/dataentities/CL/search?_where=firstName<>maria
+api/dataentities/CL/documents/b818cbda-e489-11e6-94f4-0ac138d2d42e?_fields=email%2CfirstName%2Cdocument&_schema=schema'
+api/dataentities/CL/search?email={{email}}&_fields=userId,email
+api/oms/user/orders/?clientEmail=aaaaaa@a.com
+api/oms/pvt/orders?clientUser=id
+api/dataentities/CL/search?_where=userId=abb16d5b-ba6f-42de-84b3-8314940c40a6&_fields=_all
+api/checkout/pub/profiles/?email=
+api/license-manager/users/3300a1bc-fcad-11ec-835d-12f8738896c9
+api/profile-system/pvt/profiles/test@mail.com/personalData

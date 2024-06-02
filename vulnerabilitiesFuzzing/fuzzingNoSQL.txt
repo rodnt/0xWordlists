@@ -1,0 +1,14 @@
+'
+"
+]
+[
+)
+(
+;
+$where
+$ne
+$or
+$gt
+$regex
+$eq
+$func: "var_dump"
