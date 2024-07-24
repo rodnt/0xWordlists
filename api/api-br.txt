@@ -1,4 +1,17 @@
 2fa
+pixBeneficiary
+dict
+nationalRegistration
+evp
+idAccount
+bankName
+ispb
+bankAccountNumber
+bankBranchNumber
+bankAccountType
+claim-key
+claimUUID
+description
 PixChave
 a-vista
 acao
